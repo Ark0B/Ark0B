@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Ad 👋  
 *A curious mind exploring code, security, and systems beneath the surface.*
 
